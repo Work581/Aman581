@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/AMAN581/shadow.py",
+    "postStartCommand": "python3 /workspaces/Aman581/shadow.py",
     "customizations": {
         "vscode": {
             "settings": {
